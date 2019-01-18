@@ -1,6 +1,6 @@
 ﻿namespace FrontierEmulator
 {
-    partial class Form1
+    partial class Emulator
     {
         /// <summary>
         /// Required designer variable.
