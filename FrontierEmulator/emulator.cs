@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FrontierEmulator
 {
-    public partial class Form1 : Form
+    public partial class Emulator : Form
     {
-        public Form1()
+        public Emulator()
         {
             InitializeComponent();
         }
